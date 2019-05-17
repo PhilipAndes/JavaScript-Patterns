@@ -23,7 +23,7 @@ Files: index.v3 + app.v3.js
 5. Lesson 5:<br>
 Observer Pattern.<br>
 Files: index.v4 + app.v4.js + app.v4.es6.js (change to this src in UI for ES6 classes).
-
+ 
 6. Lesson 6:<br>
 Mediator Pattern.<br>
 Files: index.v5 + app.v5.js
