@@ -12,7 +12,7 @@ Video lesson
 Module & Revealing Module Pattern.<br>
 Files: index.v1 + app.v1.js
 
-3. Lesson 3:<br>
+3. Lesson 3:<br> 
 Singleton Pattern.<br>
 Files: index.v2 + app.v2.js
 
