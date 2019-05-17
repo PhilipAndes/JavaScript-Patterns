@@ -31,4 +31,4 @@ Files: index.v5 + app.v5.js
 7. Lesson 7:<br>
 State Pattern - Small Project. <br>
 Made a new repo for this project, see:<br>
-<link>
+https://github.com/PhilipAndes/JavaScript-State-Pattern-Small-Project
