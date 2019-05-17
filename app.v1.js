@@ -70,6 +70,7 @@ const ItemCtrl = (function() {
         });
     }
 
+    // Public:
     return {
         add: add,
         get: get
@@ -78,3 +79,5 @@ const ItemCtrl = (function() {
 
 ItemCtrl.add({id: 1, name: 'John'});
 console.log(ItemCtrl.get(1)); // 1 John
+
+// The difference here with the standard pattern is that here we are mapping or returning an object literal that directly reveals methods that are in the module
