@@ -4,7 +4,7 @@ Started Coding: December 2018.
 
 Udemy Course: JavaScript Patterns.
 
-1. Lesson 1:<br>
+1. Lesson 1:<br> 
 What Are Patterns?<br>
 Video lesson
 
