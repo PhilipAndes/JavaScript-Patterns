@@ -8,7 +8,7 @@ Udemy Course: JavaScript Patterns.
 What Are Patterns?<br>
 Video lesson
 
-2. Lesson 2:<br>
+2. Lesson 2:<br> 
 Module & Revealing Module Pattern.<br>
 Files: index.v1 + app.v1.js
 
