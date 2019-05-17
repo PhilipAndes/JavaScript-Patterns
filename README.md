@@ -12,7 +12,7 @@ Video lesson
 Module & Revealing Module Pattern.<br>
 Files: index.v1 + app.v1.js
 
-3. Lesson 3:<br> 
+3. Lesson 3:<br>  
 Singleton Pattern.<br>
 Files: index.v2 + app.v2.js
 
@@ -22,7 +22,7 @@ Files: index.v3 + app.v3.js
 
 5. Lesson 5:<br>
 Observer Pattern.<br>
-Files: index.v4 + app.v4.js
+Files: index.v4 + app.v4.js + app.v4.es6.js (change to this src in UI for ES6 classes).
 
 6. Lesson 6:<br>
 Mediator Pattern.<br>
